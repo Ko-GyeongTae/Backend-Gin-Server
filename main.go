@@ -1,6 +1,6 @@
 package main
 
-//보류 진행중단
+//보류 진행중단 브랜치 정리
 import (
 	"github.com/Ko-GyeongTae/Gin_Server_Basic/api"
 	"github.com/gin-gonic/gin"
